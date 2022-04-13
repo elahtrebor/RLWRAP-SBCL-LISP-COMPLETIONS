@@ -1,9 +1,14 @@
 # RLWRAP-SBCL-LISP-COMPLETIONS
 How to enable TAB completions of common lisp commands using SBCL
 <pre>
+This resource is completely free.
+
 This allows tab completion and history in SBCL using rlwrap.
 
 See the shell script located in this directory  "rsbcl.sh"  as it provides arguments to specify breaks and calls sbcl.
+The shell script passed the -f flag to rlwrap in which reads the file lisp.conpletions in which you will need to place in the same diretory.
+Feel free to add whatever lisp functions in the lisp.completions file.
+
 
 Example:
 

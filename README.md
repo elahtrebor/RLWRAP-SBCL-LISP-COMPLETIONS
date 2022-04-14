@@ -1,5 +1,5 @@
 # RLWRAP-SBCL-LISP-COMPLETIONS
-How to enable TAB completions of common lisp commands using SBCL
+How to enable TAB completions of common lisp commands using rlwrap and SBCL
 <pre>
 This resource is completely free.
 
